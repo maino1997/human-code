@@ -1,24 +1,35 @@
 
 Preparare le lasagne alla bolognese
 L’ingrediente segreto
-Chissà perché, per quanto ci provi e segua alla lettera la ricetta, non vengono mai come quelle di nonna! Ho studiato alla perfezione tutti gli ingredienti, le quantità, i tempi e modalità di cottura, ma alla fine le lasagne della nonna sono sempre di un altro livello!
+Chissà perché, per quanto ci provi e segua alla lettera la ricetta, non vengono mai come quelle di nonna!
+ Ho studiato alla perfezione tutti gli ingredienti, le quantità, i tempi e modalità di cottura,
+  ma alla fine le lasagne della nonna sono sempre di un altro livello!
+
+
+
 1-Lista ingredienti:
     <--check ingredienti-->
         SE li abbiamo procediamo con l'assemblaggio
         ALTRIMENTI si va al supermercato per gli ingredienti mancanti
+
+
 2-Assemblaggio degli strati:
     AGGIUNGI STRATO FINCHE' abbastanza ragù AND abbastanza besciamella AND abbastanza pasta
     ALTRIMENTI Passi alla cottura
+
+
 3- cottura
     <-forno caldo-->
         SE il forno è a 180 gradi allora metti dentro la lasagna
         ALTRIMENTI aspetti che sia a 180 gradi
     <--Cottura della lasagna-->
-        SE dopo 120 minuti la lasagna è cotta allora tirare fuori la lasagna
-        ALTRIMENTI rimetterla dentro per 10 minuti e ricontrollare
+        controllare SE dopo 120 minuti la lasagna è cotta allora tirare fuori la lasagna
+        ALTRIMENTI ricontrollare rimetterla dentro per 10 minuti e ricontrollare
+
 4-Assaggio
         SE è buona come quella della nonna allora si passa all'impiattamento
         AlTRIMENTI si ritorna alla lista degli ingredienti
 5- impiattamento
+
         controllare la lasagna SE  non è troppo calda allora mettere una fetta nel piatto
         ALTRIMENTI lasciarla
