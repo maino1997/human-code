@@ -20,16 +20,20 @@ Chissà perché, per quanto ci provi e segua alla lettera la ricetta, non vengon
 
 3- cottura
     <-forno caldo-->
-        SE il forno è a 180 gradi allora metti dentro la lasagna
-        ALTRIMENTI aspetti che sia a 180 gradi
+       Accendo il forno
+       Aspetto 30 minuti
+       FINCHE il forno non è a 180 gradi aspetto 10 minuti e ricontrollo
+       quando è a 180 gradi passo alla cottura
     <--Cottura della lasagna-->
-        controllare SE dopo 120 minuti la lasagna è cotta allora tirare fuori la lasagna
-        ALTRIMENTI ricontrollare rimetterla dentro per 10 minuti e ricontrollare
+        aspetto 120 minuti
+        FINCHE non sono cotte aspetto 10 minuti e ricontrollo se sono cotte
+        se sono cotte passo all'assaggio
 
 4-Assaggio
         SE è buona come quella della nonna allora si passa all'impiattamento
         AlTRIMENTI si ritorna alla lista degli ingredienti
-5- impiattamento
 
-        controllare la lasagna SE  non è troppo calda allora mettere una fetta nel piatto
-        ALTRIMENTI lasciarla
+5- impiattamento
+        Controllo la temperatura della lasagna
+        FINCHE è troppo calda la lascio raffreddare per 5 minuti
+        quando non è troppo calda impiatto una fetta 
